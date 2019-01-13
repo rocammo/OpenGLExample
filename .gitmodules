@@ -1,0 +1,7 @@
+[submodule "dependencies/SFML"]
+	path = dependencies/SFML
+	url = git@github.com:SFML/SFML.git
+[submodule "dependencies/glew"]
+	path = dependencies/glew
+	url = git@github.com:mploux/glew.git
+	branch = latest
